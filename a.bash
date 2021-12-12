@@ -15,4 +15,4 @@ then
    echo 
 else 
     echo 
-fi        #End statement
+fi        #End if statement 
