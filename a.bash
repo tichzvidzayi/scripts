@@ -2,7 +2,7 @@
 HOST=`hostname`
 #HOST=$(hostname)
 CURRENT_DIRECTORY=$(pwd)
-echo Bonjour my server name is $host what is your name?
+echo Server name is $host what is your name?
 echo 
 read -sp "Your name" NAME  #s hides user input
 echo
